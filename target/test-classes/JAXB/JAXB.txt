@@ -1,0 +1,10 @@
+The Java Architecture for XML Binding (JAXB) provides an API and tools that automate the mapping between XML documents and Java objects (POJOS).
+The JAXB framework enables developers to perform the following operations:
+
+Unmarshal XML content into a Java representation
+Access and update the Java representation
+Marshal the Java representation of the XML content into XML content
+
+- in JDK9 and JDK10 JAXB became deprecated. 
+- Since JDK 11 it was removed.
+- In order to use JAXB in the later version of JDK, we need to include the dependencies and use it
